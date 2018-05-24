@@ -23,6 +23,6 @@ any newly created pdfs with zathura.
 
 TODO
 ----
-Add option to change location of pid file.
-Perhaps add a dotfile and SIGHUP handler.
+* Add option to change location of pid file.
+* Perhaps add a dotfile and SIGHUP handler.
 
